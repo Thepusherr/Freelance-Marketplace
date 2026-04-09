@@ -31,6 +31,6 @@ Backend for a freelance service marketplace platform. Implements a full order li
 ## Quick start
 
 ```bash
-git clone https://github.com/your-username/freelance-marketplace-api.git
+git clone https://github.com/Thepusherr/Freelance-Marketplace.git
 cd freelance-marketplace-api
 docker-compose up
